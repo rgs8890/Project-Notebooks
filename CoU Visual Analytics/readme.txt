@@ -1,0 +1,1 @@
+A visual Geo-spatial Analysis of American's elections focusing on the States and Counties which changed their votes from Republican to Democratic within both elections. We analyse the main reasons why Donald Trump lost the election, identifying his handling of the COVID-19 case as the final answer.
