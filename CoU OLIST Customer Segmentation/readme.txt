@@ -1,0 +1,1 @@
+Analysed the famous Data Science Kaggle OLIST database, performing RFM Customer Segmentation to cluster different customers based on Recency, Frequency and Monetary values so businesses can target these customers.
