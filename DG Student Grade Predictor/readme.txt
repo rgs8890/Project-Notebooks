@@ -1,0 +1,1 @@
+Building, training and testing an SVM classifier to predict the grade score based on student data. This dataset has a lot of features, so we create a large HTML interface which school departments can use to enter student details and predict their grades.
