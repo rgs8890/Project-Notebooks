@@ -1,0 +1,1 @@
+Analysing Cab Data to provide recommendations on which Cab Company to invest in. Merging 4 datasets together which can be represented within a Schema. Analysed both companies on customer retention, percentage changes in metrics over time, forecasting and Geospatial Analysis.
