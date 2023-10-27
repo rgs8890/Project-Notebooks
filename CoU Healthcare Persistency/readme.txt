@@ -1,0 +1,1 @@
+Analysis of dataset featuring various factors which affect the performance of a drug. We build a Dummy Classifier, Support Vector Machine, Logistic Regression, KNN, Decision Tree, Random Forest and Naive Bayes and compare these on classification metrics (precision, recall, f1-score and accuracy). 
