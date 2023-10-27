@@ -1,0 +1,1 @@
+Trained and Compared Decision Trees and KNNs on a Binary Classification problem to predict heart failure in patients based on their medical records. Particular focus on hyper-parameter tuning and optimisation of these models in MATLAB.
