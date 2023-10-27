@@ -1,0 +1,1 @@
+Build, train, test and compare KNNs, SVMs, Decision Trees, Random Forests, Multinomial Naive Bayes (NB) and Logistic Regression Models on classification metrics to predict student outcomes on whether they will graduate or dropout.
