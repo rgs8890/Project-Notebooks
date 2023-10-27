@@ -1,0 +1,1 @@
+Analysing past customer data of a Portuguese banking data source. Comparing Linear and Ensemble ML algorithms with added features Boosting, Bagging and Stacking. Deployed the best performing model using Flask and Heroku.
